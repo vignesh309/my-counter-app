@@ -1,9 +1,9 @@
 {
   "name": "my-counter-app",
+  "homepage": "https://vignesh309.github.io/my-counter-app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vignesh309.github.io/my-counter-app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
